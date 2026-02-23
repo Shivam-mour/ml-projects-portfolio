@@ -12,7 +12,7 @@ I enjoy solving real-world problems with data, creating predictive models, and c
 
 ## 🚀 About Me
 
-- 🎓 Background in: [Your Degree / Field]
+- 🎓 Background in: Data Scientist
 - 🤖 Interested in: Machine Learning, Deep Learning, NLP, Computer Vision
 - 📊 Love working with data and extracting meaningful insights
 - 🌱 Currently learning: [TensorFlow / MLOps / Advanced ML / etc.]
@@ -25,7 +25,7 @@ I enjoy solving real-world problems with data, creating predictive models, and c
 ### 👨‍💻 Programming
 - Python
 - SQL
-- (Add others if any)
+- R
 
 ### 📚 Machine Learning & AI
 - Supervised & Unsupervised Learning
@@ -46,13 +46,23 @@ I enjoy solving real-world problems with data, creating predictive models, and c
 
 ## 📂 Machine Learning Projects
 
-### 🔹 1. [Project Name]
-**Description:** Short 2–3 line explanation of what the project does.  
-**Tech Used:** Python, Pandas, Scikit-learn  
+### 🔹 1. Customer Churn Prediction
+**Description:** Customer churn prediction is a Machine Learning project aimed at identifying customers who are likely to stop using a company's service. By analyzing customer behavior and historical data, this model helps businesses take proactive actions to improve customer retention..  
+**Tech Used:** - Python
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
 **Key Highlights:**  
-- Data preprocessing  
-- Model building  
-- Evaluation metrics  
+- 1️⃣ Data Collection
+- 2️⃣ Exploratory Data Analysis (EDA)
+- 3️⃣ Data Preprocessing
+- 4️⃣ Train-Test Split
+- 5️⃣ Model Building
+- 6️⃣ Model Evaluation
+- 7️⃣ Prediction on Unknown Data
 
 ## 📈 GitHub Stats (Optional)
 
