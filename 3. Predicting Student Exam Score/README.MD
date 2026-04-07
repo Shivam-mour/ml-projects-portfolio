@@ -131,7 +131,7 @@ This system is developed strictly for educational and demonstration purposes.
 It should not be used as the sole determinant of academic performance or decision-making.
 
 14. Author
-Jonathan Petro
+Shivam Mourya
 Machine Learning & Python Developer
 Focused on building data-driven educational solutions.
 
